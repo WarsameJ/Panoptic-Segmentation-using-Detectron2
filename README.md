@@ -1,2 +1,2 @@
 # Panoptic-Segmentation-using-Detectron2
-This is a project using a Mask R-CNN using Detectron2. 
+This is a project using a Mask R-CNN using Detectron2. The notebook in this prokect was created using Google Colab and contains code specific to that IDE. The code in reference is a snippet that enables colab to access a device's webcam in order to execute Detectron2's panoptic segmentation. To ensure this notebook executes, verify that the Runtime type has GPU selected as the "Hardware Accelerator". The output file, containing the segmented video will be available in the contents folder as "out.mp4" after running the notebook. 
